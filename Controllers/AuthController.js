@@ -1,4 +1,4 @@
-const Employee = require("../Models/employeeSchema");
+const Employee = require("../Models/EmployeeSchema");
 
 exports.loginUser = async function (req, res) {
     try {
